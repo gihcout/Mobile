@@ -1,0 +1,24 @@
+id,nome,codigo_venda,peso,preco
+1,abóbora,28,1.00,5.00
+2,alcachofra,29,1.00,5.00
+3,"batata doce",30,1.00,5.00
+4,"batata inglesa",31,1.00,5.00
+5,berinjela,32,1.00,5.00
+6,brócolis,33,1.00,5.00
+7,cenoura,34,1.00,5.00
+8,cebolinha,35,1.00,5.00
+9,chuchu,36,1.00,3.00
+10,"couve flor",37,1.00,5.00
+11,"couve manteiga",38,1.00,5.00
+12,espinafre,39,1.00,5.00
+13,inhame,40,1.00,5.00
+14,jiló,41,1.00,5.00
+15,pepino,42,1.00,5.00
+16,quiabo,43,1.00,5.00
+17,"batata inglesa",44,1.00,5.00
+18,tomate,45,1.00,5.00
+19,rúcula,46,1.00,5.00
+20,salsinha,47,1.00,5.00
+21,cebola,48,1.00,5.00
+22,mandioca,49,1.00,5.00
+23,abobrinha,50,1.00,5.00

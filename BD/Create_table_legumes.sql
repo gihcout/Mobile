@@ -1,0 +1,8 @@
+CREATE TABLE legumes (
+    id INT NOT NULL AUTO_INCREMENT,
+    nome VARCHAR(100) NOT NULL,
+    codigo_venda VARCHAR(50) NOT NULL UNIQUE,
+    peso DECIMAL(5,2),
+    preco DECIMAL(10, 2) NOT NULL,
+    PRIMARY KEY(id)
+) DEFAULT CHARSET=utf8;
