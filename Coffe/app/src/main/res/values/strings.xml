@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">coffe</string>
+    <string name="find_the_best_coffee_n_you">Find the best coffee\n you</string>
+    <string name="find_the_best_coffee_for_you">Find the best coffee for you</string>
+</resources>
