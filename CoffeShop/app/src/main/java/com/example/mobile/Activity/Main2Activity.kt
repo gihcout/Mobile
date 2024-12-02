@@ -23,9 +23,9 @@ private lateinit var binding: ActivityMain2Binding
 
     private fun setVariable() {
         binding.apply {
-            btn1.setOnClickListener { startListActivity(1,"Ice Drink") }
-            btn2.setOnClickListener { startListActivity(2,"Hot Drink") }
-            btn3.setOnClickListener { startListActivity(3,"Hot Coffee") }
+            btn1.setOnClickListener { startListActivity(2,"Ice Drink") }
+            btn2.setOnClickListener { startListActivity(3,"Hot Drink") }
+            btn3.setOnClickListener { startListActivity(1,"Hot Coffee") }
             btn4.setOnClickListener { startListActivity(4,"Ice Coffee") }
             btn5.setOnClickListener { startListActivity(5,"Brewing Coffee") }
             btn6.setOnClickListener { startListActivity(6,"Shake") }
