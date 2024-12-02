@@ -2,14 +2,25 @@
 
 ## Descrição
 
-Este projeto acadêmico tem como objetivo o desenvolvimento de um aplicativo mobile que simula uma Cafeteria e apresentação de seus produtos.
+Este projeto acadêmico tem como objetivo o desenvolvimento de um aplicativo móvel que simula uma cafeteria, permitindo a visualização e apresentação interativa de seus produtos. O aplicativo foi desenvolvido com o intuito de proporcionar uma experiência digital agradável para os usuários, onde é possível explorar o cardápio, visualizar informações detalhadas sobre os produtos e interagir com a interface de maneira simples e intuitiva.
+
+A aplicação foi criada para dispositivos Android e utiliza tecnologias modernas para garantir performance, escalabilidade e uma experiência de usuário fluida.
 
 ## Tecnologias Utilizadas
 
-- **Backend:** Java - Kotlin
-- **Frontend:** xml
-- **Firebase Storage:** Google Cloud Storage
+- **Ambiente de Desenvolvimento**: Android Studio
+- **Linguagens de Programação:** Java - Kotlin
+- **Frontend:** Layouts XML
+- **Armazenamento:** Firebase Storage (Google Cloud Storage)
 - **Design UI/UX:** Figma
+- **Controle de Versão**: Git
+
+## Funcionalidades
+
+- Exibição dinâmica do cardápio com imagens e descrições de produtos;
+- Armazenamento de imagens e dados no Firebase Storage;
+- Interface de usuário (UI) moderna, com design responsivo e otimizado para diferentes tamanhos de tela;
+- Implementação de interações e animações para uma experiência de usuário mais fluída.
 
 &nbsp;
 
